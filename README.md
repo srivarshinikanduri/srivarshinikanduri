@@ -21,8 +21,6 @@
 
 ### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
 
 ### 🌐 Frontend
 ![HTML](https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=html5)
@@ -60,16 +58,14 @@
 - 🥇 Smart India Hackathon Participant
 - Participated in multiple Hackathons  
 - ⭐ Beginner Developer
-- Deloitte Data Analytics virtual internship
 - IBM AI fundamentals certification 
 
 ---
 
 ## Projects
-- Women Saftey Application
-- KRISI a farmer chatbot
 - Sentiment Analysis
-- protifolio website
+- Smart civic issue 
+
 
 
 ## 🔗 Connect With Me
