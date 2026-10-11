@@ -12,7 +12,7 @@
 
 - 🎓 Student & Aspiring Full Stack Developer  
 - 🌱 Currently learning: Full Stack Development 
-- 💡 Interested in AI, Web Development,Backend,Database 
+- 💡 Interested in Full Stack development,Web Development,Backend,Database 
 - 📍 India  
 
 ---
