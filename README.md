@@ -63,8 +63,8 @@
 ---
 
 ## Projects
-- Sentiment Analysis
 - Smart civic issue 
+- Segmento Social listening tool
 
 
 
